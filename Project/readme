@@ -1,0 +1,16 @@
+erdiagram.png - erdiagram as image
+erdiagram.erdplus - erdiagram as file for ERDPlus website
+Carstock.sql - query sequence to recreate database
+
+brands - brands and companies list
+models - list of models for each brand
+suppliers - parts manufacturing plants
+plants - final model manufacturing plants
+parts - list of parts for every model
+manafucturing - shows which final manufacturing plants manufactures which models
+options - list of what customization options each manufacturers has for each model
+vehicles - list of manufactured cars
+dealers - list of car dealers
+stock - common inventory for all dealers
+customers - list of customers and their data
+sales - track of sold cars
